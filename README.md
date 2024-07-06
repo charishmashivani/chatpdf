@@ -41,11 +41,3 @@ This will process `specific_content_text.pdf` and output a summary to the consol
 The `summary.py` script:
 1. Extracts text from the PDF using PyMuPDF
 2. Generates a summary using the BART-large-CNN model from Hugging Face Transformers
-
-## Feedback and Contributions
-
-I'm always looking to improve! If you have any suggestions or feedback, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
